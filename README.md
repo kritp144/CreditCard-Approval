@@ -54,15 +54,15 @@ Results: Tuned Random Forest provides the best accuracy with minimum variance be
 
 ## Visualization
 
-![5155A668-F674-47B8-B2BE-59BE3A7F6F16](https://user-images.githubusercontent.com/103543062/176870347-321e7a8f-c340-4d57-bc33-29ea69b37218.png)
+![4C318115-7121-4C2E-B617-FF07B3382FEB](https://user-images.githubusercontent.com/103543062/176871588-adf08828-0de7-4831-bcce-304132b3a6af.jpeg)
 
 This graph indicates that all applicants with an income of more than $ 1000 got approved regarless of whether or not they have defaulted on a payment in the past.
 
-![image](https://user-images.githubusercontent.com/103543062/176869880-4005a9de-4e64-4897-9c9c-d50aa394630b.png)
+![660826B1-E192-4A57-B14C-061BC97A39F4](https://user-images.githubusercontent.com/103543062/176871649-2ff26c5d-74d4-4ecd-8e43-22ed643bd97b.jpeg)
 
 This barchart indicates that applicants with a prior default who are employed are more likely to get approved for a credit card. It also indicates that for those who do not have a prior default,however small the sample may be, the applicants that are not employeed are more likely to get approved for a credit card.
 
-![image](https://user-images.githubusercontent.com/103543062/176869942-0c3bd5cf-e8c7-4878-8645-4c5200826443.png)
+![3DADB517-F10D-4A0C-8FFB-A74BA09CD233](https://user-images.githubusercontent.com/103543062/176871673-f247b215-af95-4692-a52e-f440654551bc.jpeg)
 
 This line graph indicates that applicants who have a prior default, the higher the debt, the more likey they are to get approved, while as for the applicants that do not have a prior default, the lower the debt, the  higher the chances are for their approval.
 
