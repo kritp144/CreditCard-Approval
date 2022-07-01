@@ -54,8 +54,7 @@ Results: Tuned Random Forest provides the best accuracy with minimum variance be
 
 ## Visualization
 
-![image](https://user-images.githubusercontent.com/103543062/176869800-b597ca2e-c133-4066-82a4-b5ef283f7f88.png)
-
+![5155A668-F674-47B8-B2BE-59BE3A7F6F16](https://user-images.githubusercontent.com/103543062/176870347-321e7a8f-c340-4d57-bc33-29ea69b37218.png)
 
 This graph indicates that all applicants with an income of more than $ 1000 got approved regarless of whether or not they have defaulted on a payment in the past.
 
